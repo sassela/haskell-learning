@@ -29,6 +29,7 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 
 ## Advanced
 * [Haskell in Depth (in progress), Vitaly Bragilevsky](https://www.manning.com/books/haskell-in-depth)
+* [Functional Stuff blog](https://functionalstuff.svbtle.com/)
 
 ### Meta-resources
 * [Introductions to Advanced Topics in Haskell, Gabriel Gonzalez](http://www.haskellforall.com/2014/03/introductions-to-advanced-haskell-topics.html)
