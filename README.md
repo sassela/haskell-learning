@@ -14,6 +14,7 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 * [Functional Education, Chris Allen](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
 * [Getting Started with Haskell, Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell)
 * [What I Wish I Knew When Learning Haskell, Stephen Diel](http://dev.stephendiehl.com/hask/)
+* [A Haskell study syllabus](https://www.fpcomplete.com/haskell-syllabus)
 
 ## Intermediate
 * [The Joy of Haskell, Chris Martin, Julie Moronuki](https://joyofhaskell.com/)
@@ -23,8 +24,6 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 * [Parallel and Concurrent Programming in Haskell, Simon Marlow](https://simonmar.github.io/pages/pcph.html)
 * [Category Theory for Programmers, Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Real World Haskell, Don Stewart](http://book.realworldhaskell.org/])
-* [A Haskell study syllabus](https://www.fpcomplete.com/haskell-syllabus)
-* [Intermediate Haskell](https://intermediatehaskell.com/) - work in progress
 
 ### Meta-resources
 * [A Haskell Reading List, Stephen Diel](http://www.stephendiehl.com/posts/essential_haskell.html)
