@@ -14,6 +14,7 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 * [Functional Education, Chris Allen](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
 * [Getting Started with Haskell, Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell)
 * [What I Wish I Knew When Learning Haskell, Stephen Diel](http://dev.stephendiehl.com/hask/)
+* [A Haskell study syllabus](https://www.fpcomplete.com/haskell-syllabus)
 
 ## Intermediate
 * [The Joy of Haskell, Chris Martin, Julie Moronuki](https://joyofhaskell.com/)
