@@ -19,7 +19,7 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 ## Intermediate
 * [The Joy of Haskell, Chris Martin, Julie Moronuki](https://joyofhaskell.com/)
 * [Typeclasses, Chris Martin, Julie Moronuki](https://typeclasses.com/)
-* [Book of Types (in progress), Sandy Maguire](https://leanpub.com/book-of-types)
+* [Thinking with Types, Sandy Maguire](https://leanpub.com/thinking-with-types)
 * [The Fun of Programming, Jeremy Gibbons, Oege De Moor](https://www.cs.ox.ac.uk/publications/books/fop/)
 * [Parallel and Concurrent Programming in Haskell, Simon Marlow](https://simonmar.github.io/pages/pcph.html)
 * [Category Theory for Programmers, Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
