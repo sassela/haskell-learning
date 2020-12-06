@@ -8,6 +8,7 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 * [Project Euler problems](https://projecteuler.net/index.php?section=view) and [solutions](https://wiki.haskell.org/Euler_problems)
 * [How I Start Haskell, Chris Allen](http://howistart.org/posts/haskell/1/index.html)
 * [Structuring your first Haskell Project, Saksham Sharma](https://sakshamsharma.com/2018/03/haskell-proj-struct/)
+* [Learn4Haskell](https://github.com/kowainik/learn4haskell)
 
 ### Meta-resources
 * [For Beginners, Julie Moronuki](https://argumatronic.com/posts/1970-01-01-beginners.html)
