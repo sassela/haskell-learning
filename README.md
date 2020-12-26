@@ -2,14 +2,14 @@
 Another opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
 
 ## Beginner
-* [Haskell from First Principles](http://haskellbook.com/)
+* [Haskell Programming from First Principles, Christopher Allen & Julie Moronuki](http://haskellbook.com/)
+* [Learn4Haskell, Dmitrii Kovanikov & Veronika Romashkina (Kowainik)](https://github.com/kowainik/learn4haskell)
+* [Finding Success (and Failure) in Haskell, Chris Martin & Julie Moronuki](https://leanpub.com/finding-success-in-haskell)
 * [CIS194 Introduction to Haskell (Spring 2013), University of Pennsylvania](https://www.seas.upenn.edu/~cis194/spring13/)
-* [Functional Programming Course, Data61/CSIRO](https://github.com/data61/fp-course)
+* [Functional Programming Course, Tony Morris & Mark Hibberd](https://github.com/data61/fp-course)
 * [Project Euler problems](https://projecteuler.net/index.php?section=view) and [solutions](https://wiki.haskell.org/Euler_problems)
-* [How I Start Haskell, Chris Allen](http://howistart.org/posts/haskell/1/index.html)
 * [Structuring your first Haskell Project, Saksham Sharma](https://sakshamsharma.com/2018/03/haskell-proj-struct/)
-* [Learn4Haskell](https://github.com/kowainik/learn4haskell)
-* [A Type Of Programming](https://atypeofprogramming.com/)
+* [A Type Of Programming, Renzo Carbonara](https://atypeofprogramming.com/)
 
 ### Meta-resources
 * [For Beginners, Julie Moronuki](https://argumatronic.com/posts/1970-01-01-beginners.html)
@@ -19,13 +19,12 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 * [A Haskell study syllabus](https://www.fpcomplete.com/haskell-syllabus)
 
 ## Intermediate
-* [The Joy of Haskell, Chris Martin, Julie Moronuki](https://joyofhaskell.com/)
-* [Typeclasses, Chris Martin, Julie Moronuki](https://typeclasses.com/)
+* [Typeclasses, Chris Martin & Julie Moronuki](https://typeclasses.com/)
 * [Thinking with Types, Sandy Maguire](https://leanpub.com/thinking-with-types)
-* [The Fun of Programming, Jeremy Gibbons, Oege De Moor](https://www.cs.ox.ac.uk/publications/books/fop/)
+* [Get Programming with Haskell, Will Kurt](https://livebook.manning.com/book/get-programming-with-haskell/)
 * [Parallel and Concurrent Programming in Haskell, Simon Marlow](https://simonmar.github.io/pages/pcph.html)
 * [Category Theory for Programmers, Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-* [Real World Haskell, Don Stewart](http://book.realworldhaskell.org/])
+* [Real World Haskell, Don Stewart](http://book.realworldhaskell.org/)
 
 ### Meta-resources
 * [A Haskell Reading List, Stephen Diel](http://www.stephendiehl.com/posts/essential_haskell.html)
@@ -37,7 +36,7 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 ### Meta-resources
 * [Introductions to Advanced Topics in Haskell, Gabriel Gonzalez](http://www.haskellforall.com/2014/03/introductions-to-advanced-haskell-topics.html)
 
-# All levels
+# General
 * [Haskell Wikibook](https://en.wikibooks.org/wiki/Haskell)
 * [Hacktoberfest Haskell Projects](https://github.com/search?l=Haskell&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues)
 * [Summer of Code, Haskell](https://summer.haskell.org/) - for university students
