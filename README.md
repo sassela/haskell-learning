@@ -4,11 +4,10 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 ## Beginner
 * [Haskell Programming from First Principles, Christopher Allen & Julie Moronuki](http://haskellbook.com/)
 * [Learn4Haskell, Dmitrii Kovanikov & Veronika Romashkina (Kowainik)](https://github.com/kowainik/learn4haskell)
-* [Finding Success (and Failure) in Haskell, Chris Martin & Julie Moronuki](https://leanpub.com/finding-success-in-haskell)
+* [Get Programming with Haskell, Will Kurt](https://livebook.manning.com/book/get-programming-with-haskell/)
 * [CIS194 Introduction to Haskell (Spring 2013), University of Pennsylvania](https://www.seas.upenn.edu/~cis194/spring13/)
 * [Functional Programming Course, Tony Morris & Mark Hibberd](https://github.com/data61/fp-course)
 * [Project Euler problems](https://projecteuler.net/index.php?section=view) and [solutions](https://wiki.haskell.org/Euler_problems)
-* [Structuring your first Haskell Project, Saksham Sharma](https://sakshamsharma.com/2018/03/haskell-proj-struct/)
 * [A Type Of Programming, Renzo Carbonara](https://atypeofprogramming.com/)
 
 ### Meta-resources
@@ -19,9 +18,9 @@ Another opinionated list of resources for learning Haskell, from absolute (progr
 * [A Haskell study syllabus](https://www.fpcomplete.com/haskell-syllabus)
 
 ## Intermediate
-* [Typeclasses, Chris Martin & Julie Moronuki](https://typeclasses.com/)
+* [Production Haskell, Matt Parsons](https://leanpub.com/production-haskell)
 * [Thinking with Types, Sandy Maguire](https://leanpub.com/thinking-with-types)
-* [Get Programming with Haskell, Will Kurt](https://livebook.manning.com/book/get-programming-with-haskell/)
+* [Typeclasses, Chris Martin & Julie Moronuki](https://typeclasses.com/)
 * [Parallel and Concurrent Programming in Haskell, Simon Marlow](https://simonmar.github.io/pages/pcph.html)
 * [Category Theory for Programmers, Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Real World Haskell, Don Stewart](http://book.realworldhaskell.org/)
